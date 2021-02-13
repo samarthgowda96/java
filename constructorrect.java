@@ -14,7 +14,7 @@ class rect{
 
 
     public static void main(String args[ ]) {
-        int area1,area2;
+        int area1;
         rect rect1= new rect(10,16);
         //rect rect2= new rect();
        
